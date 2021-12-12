@@ -14,8 +14,6 @@
 <p>2. Run './deployApp.sh' (front) in one terminal and './deployServer' (back) in another terminal</p>
 
 
-<iframe frameBorder='0' width='640' height='360' webkitallowfullscreen mozallowfullscreen allowfullscreen src="https://www.awesomescreenshot.com/embed?id=6406049&shareKey=cf9a95d1047b8065d915678e998dc7d6"></iframe>
-
 
 <h3 align="center">Versions</h3>
 
