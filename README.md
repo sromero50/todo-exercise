@@ -11,7 +11,7 @@
 
 <p>1. Update the user and password 'postgresql://postgres:abc@localhost/postgres' in line 8 <a href="https://github.com/sromero50/todo-exercise/blob/master/api/app.py" target="blank">here</a></p>
 
-<p>2. Run 'deployApp.sh' (front) in one termine and 'deployServer' (back) in another terminal</p>
+<p>2. Run './deployApp.sh' (front) in one terminal and './deployServer' (back) in another terminal</p>
 
 <h3 align="center">Versions</h3>
 
