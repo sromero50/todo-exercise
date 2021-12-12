@@ -1,13 +1,13 @@
-<h1 align="center">To-Do-List-Exercise </h1>
+<h1>To-Do-List-Exercise </h1>
 
-<h3 align="center">Implementation Exercise</h3>
+<h3>Implementation Exercise</h3>
 
 
-<h3 align="center">Requirements</h3>
+<h3>Requirements</h3>
 <p> <a href="https://nodejs.org/en/download/" target="blank">Node.js</a>, <a href="https://www.python.org/downloads/release/python-390/" target="blank">Python</a>, <a href="https://www.postgresql.org/download/" target="blank">PostgresSQL</a></p>
 
 
-<h3 align="center">How to run</h3>
+<h3>How to run</h3>
 
 <p>1. Update the user and password 'postgresql://postgres:abc@localhost/postgres' in line 8 <a href="https://github.com/sromero50/todo-exercise/blob/master/api/app.py" target="blank">here</a></p>
 
