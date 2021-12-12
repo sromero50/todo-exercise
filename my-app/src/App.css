@@ -1,0 +1,27 @@
+label {
+  display: contents!important;
+ }
+
+ input[type='checkbox']{
+  width: 14px !important;
+  height: 14px !important;
+ 
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -o-appearance: none;
+  appearance: none;
+  outline: 1px solid gray;
+  border-radius: 2px;
+  box-shadow: none;
+
+  text-align: center;
+  line-height: 1em;
+  background: rgb(255, 186, 37);
+}
+
+input[type='checkbox']:checked:after {
+  content: '✔';
+  color: rgb(255, 254, 254);
+
+
+}
