@@ -15,7 +15,7 @@
 
 
 
-<h3 align="center">Versions</h3>
+<h3>Versions</h3>
 
 <p>- Python: 3.9</p>
 <p>- Node.js: 14.17.6</p>
