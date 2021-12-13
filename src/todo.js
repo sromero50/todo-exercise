@@ -82,9 +82,9 @@ const ToDo = () => {
             <div>
                 <ul className="list-group list-group-flush">
                     {list.map(item => {
-                        return (<>
+                        return (<React.Fragment key={item.id}>
                             {id === item.id_folder
-                                ? (<li key={item.id} className="list-group-item d-flex">
+                                ? (<li  className="list-group-item d-flex">
                                     <div className="col-md-5" >
                                         <input type="checkbox" name={item.id} id={item.id} />
                                         <label className="ms-1" htmlFor={item.id} > {item.task}</label>
@@ -95,7 +95,7 @@ const ToDo = () => {
                                 </li>)
                                 : null
                             }
-                        </>
+                        </React.Fragment>
                         );
                     })}
                 </ul>
